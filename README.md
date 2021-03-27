@@ -1,4 +1,8 @@
 # Fredson Norton Ribeiro Cocco Junior 💻
+
+Welcome to my profile! 😃 
+
+My name is Fredson Norton Ribeiro Cocco Junior, I'm a student of computer engineering at the Federal University of Itajubá 🇧🇷 
 <!--
 **fredsonjr/fredsonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
