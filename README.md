@@ -6,7 +6,7 @@ My name is Fredson Norton Ribeiro Cocco Junior, I'm a student of computer engine
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredsonjr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## My skills 
+## My skills 🧠
 - C++
 - HTML5
 - CSS 3
@@ -15,12 +15,12 @@ My name is Fredson Norton Ribeiro Cocco Junior, I'm a student of computer engine
 - GitHub
 - Database MySQL and PostgreSQL
 
-## I'm learning/studing
+## I'm learning/studing 📚
 - React
 - jQuery
 - Node.js
 
-## Interpersonal skills
+## Interpersonal skills 👔
 - Group work
 - Creativity
 
