@@ -4,6 +4,8 @@
 
 My name is Fredson Norton Ribeiro Cocco Junior, I'm a student of computer engineering at the Federal University of Itajubá 🇧🇷. I study and do front-end projects since 2020. I always try to keep myself updated through online courses. 📚
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredsonjr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My skills 
 - C++
 - HTML5
@@ -17,6 +19,10 @@ My name is Fredson Norton Ribeiro Cocco Junior, I'm a student of computer engine
 - React
 - jQuery
 - Node.js
+
+## Interpersonal skills
+- Group work
+- Creativity
 
 
 <!--
