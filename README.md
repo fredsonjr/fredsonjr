@@ -2,7 +2,7 @@
 
 ## Welcome to my profile! 👨‍💻 
 
-My name is Fredson Junior, I am a student in the 7th period of Computer Engineering at the Federal University of Itajubá. I study and do front-end projects since 2020 and I always try to keep myself updated through online courses. 📚
+My name is Fredson Junior, I'm a student in the 7th period of Computer Engineering at the Federal University of Itajubá. I study and do front-end projects since 2020 and I always try to keep myself updated through online courses. 📚
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredsonjr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
