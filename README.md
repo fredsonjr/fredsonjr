@@ -24,7 +24,7 @@ My name is Fredson Norton Ribeiro Cocco Junior, I'm a student of computer engine
 - Group work
 - Creativity
 
-<a  href="https://www.linkedin.com/in/fredson-junior" >
+<a  href="https://www.linkedin.com/in/fredson-junior-246571207" >
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
 
