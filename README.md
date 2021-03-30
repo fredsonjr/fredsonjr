@@ -23,6 +23,7 @@ My name is Fredson Junior, I'm a student in the 7th period of Computer Engineeri
 ## Interpersonal skills 👔
 - Group work
 - Creativity
+- Leadership
 
 <a  href="https://www.linkedin.com/in/fredson-junior-246571207" >
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
