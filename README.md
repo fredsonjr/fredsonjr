@@ -13,7 +13,7 @@ My name is Fredson Junior, I'm a student in the 7th period of Computer Engineeri
 - JavaScript
 - Git
 - GitHub
-- Database MySQL and PostgreSQL
+- Databases MySQL and PostgreSQL
 
 ## I'm learning/studing 📚
 - React
