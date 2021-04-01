@@ -19,6 +19,7 @@ My name is Fredson Junior, I'm a student in the 7th period of Computer Engineeri
 - React
 - jQuery
 - Node.js
+- MongoDB
 
 ## Interpersonal skills 👔
 - Group work
