@@ -4,7 +4,7 @@
 
 My name is Fredson Junior, I'm a Computer Engineering student at the Federal University of Itajubá. I study and do front-end projects since 2020 and I always try to keep myself updated through online courses. 📚
 
-Meu nome é Fredson Junior, sou aluno do curso de Engenharia da Computação na Universidade Federal de Itajubá. Estudo e faço projetos front-end desde 2020 e procuro sempre me manter atualizado por meio de cursos online. 📚
+Meu nome é Fredson Junior, sou aluno do curso de Engenharia de Computação na Universidade Federal de Itajubá. Estudo e faço projetos front-end desde 2020 e procuro sempre me manter atualizado por meio de cursos online. 📚
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredsonjr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
