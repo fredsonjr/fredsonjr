@@ -2,7 +2,7 @@
 
 ## Welcome to my profile! 👨‍💻 
 
-My name is Fredson Junior, I'm a student of the Computer Engineering course at the Federal University of Itajubá. I study and do front-end projects since 2020 and I always try to keep myself updated through online courses. 📚
+My name is Fredson Junior, I'm a Computer Engineering student at the Federal University of Itajubá. I study and do front-end projects since 2020 and I always try to keep myself updated through online courses. 📚
 
 Meu nome é Fredson Junior, sou aluno do curso de Engenharia da Computação na Universidade Federal de Itajubá. Estudo e faço projetos front-end desde 2020 e procuro sempre me manter atualizado por meio de cursos online. 📚
 
