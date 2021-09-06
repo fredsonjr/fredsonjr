@@ -20,6 +20,8 @@ Meu nome é Fredson Junior, sou aluno do curso de Engenharia de Computação na 
 ## I'm learning/studing 📚
 - React.js
 - Next.js
+- Apex
+- Java
 
 ## Interpersonal skills 👔
 - Group work
